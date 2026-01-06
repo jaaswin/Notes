@@ -257,4 +257,5 @@ Because it is:
 PWM is time pretending to be voltage ⏳➡️⚡
 
 ---
+change 
 
